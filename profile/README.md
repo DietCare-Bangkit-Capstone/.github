@@ -20,7 +20,7 @@ An android application that makes it easy for users to do a diet program, and pr
 
 ## Documentation
 
-| [<img src="https://raw.githubusercontent.com/DietCare-Bangkit-Capstone/MD-DietCare/master/for_readme/dietcare_logo.png"  width="20%" height="20%">](https://bit.ly/DietCare)<br />[Download DietCare](https://bit.ly/DietCare) |
+| [<img src="https://raw.githubusercontent.com/DietCare-Bangkit-Capstone/MD-DietCare/master/for_readme/dietcare_logo.png"  width="20%" height="20%">](https://github.com/DietCare-Bangkit-Capstone/MD-DietCare/releases/download/v1.0.0/C23-PR531_DietCare.apk)<br />[Download DietCare](https://github.com/DietCare-Bangkit-Capstone/MD-DietCare/releases/download/v1.0.0/C23-PR531_DietCare.apk) |
 |--|
 ### Getting Started
 - **Pre-requisites**
